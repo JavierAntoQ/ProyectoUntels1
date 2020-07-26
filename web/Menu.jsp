@@ -24,7 +24,7 @@
                     </a>
                 </article>
                 <article class="section-article animated fadeIn">
-                    <a href="nombre.jsp">
+                    <a href="datoscarrera.jsp">
                         <img src="./imagenes/JSP.png" width="80px" height="80px" />
                         <h2>Registro Carreras</h2>
                     </a>
